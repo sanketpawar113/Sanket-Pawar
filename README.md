@@ -10,7 +10,6 @@
   <a href="mailto:pawarsanket229@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/sanketpawar113">💼 LinkedIn</a> •
   <a href="https://github.com/sanketpawar113">👨‍💻 GitHub</a> •
-  <a href="https://d3s27eh1wskpwv.cloudfront.net/placement/verification_photosd80a6039-e95e-46c0-86a1-3d720f4aa6cb.pdf">📄 Download Resume</a>
 </p>
 
 ---

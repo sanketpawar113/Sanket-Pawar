@@ -1,42 +1,94 @@
-# Hi there 👋, I'm Sanket  
+<h1 align="center">Hi 👋, I'm Sanket Prashant Pawar</h1>
+<h3 align="center">Full-Stack Web Developer | MERN Stack </h3>
 
-💻 **Web Developer | MERN Stack | Java Enthusiast**  
-🚀 Passionate about building full-stack applications and exploring new technologies.  
+<p align="center">
+  <a href="mailto:pawarsanket229@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/sanketpawar113">💼 LinkedIn</a> •
+  <a href="https://github.com/sanketpawar113">👨‍💻 GitHub</a>
+</p>
 
 ---
 
-## 🛠 Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-lightgrey?logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk)
+## 🚀 About Me
+I am a passionate **Full-Stack Web Developer** skilled in building scalable, clean, and user-friendly web applications.  
+I enjoy solving complex problems, creating efficient backend systems, and designing intuitive UI/UX experiences.
+
+- 🔭 I’m currently working on: **Full-stack Web Applications (Node.js + MongoDB + EJS/React)**  
+- 🌱 Learning advanced system design & cloud deployment  
+- 👯 Open to working on MERN / API / Microservice projects  
+- 📫 Reach me at: **pawarsanket229@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+- JavaScript, TypeScript, HTML5, CSS3, SQL
+
+### **Frontend**
+- React.js, Next.js  
+- Bootstrap, Tailwind CSS, Material UI  
+- EJS, jQuery  
+
+### **Backend**
+- Node.js, Express.js  
+- REST APIs, Axios  
+- Authentication (JWT), Sessions  
+
+### **Database**
+- MongoDB, MySQL 
+
+
+---
+
+## ⭐ Featured Projects
+
+### 🔹 **GO-TRAVEL – Full-Stack Travel Booking Website**
+**Tech:** Node.js, Express, EJS, MongoDB, Bootstrap  
+- Full CRUD listings  
+- Auth, reviews, image uploads, filters  
+- Clean UI with responsive layout  
+- LIVE: https://go-travel-z5qh.onrender.com/listings  
+- CODE: https://github.com/sanketpawar113/GO-TRAVEL
+
+---
+
+### 🔹 **TO-DO List (Interactive)**
+**Tech:** HTML, CSS, JavaScript  
+- Sleek UI for managing tasks  
+- Add / delete / complete tracking  
+- Deployed on GitHub pages  
+- LIVE: https://sanketpawar113.github.io/TO-DO-list/  
+- CODE: https://github.com/sanketpawar113/TO-DO-list
+
+---
+
+### 🔹 **More Projects Coming Soon**
+I actively work on new MERN projects, authentication modules, and API-based apps.
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanketPawar&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanketPawar&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=SanketPawar&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanketpawar113&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketpawar113&layout=compact" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketpawar113" height="150"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
-🔹 [Project 1](#) – Short description, Tech used.  
-🔹 [Project 2](#) – Short description, Tech used.  
-🔹 [Project 3](#) – Short description, Tech used.  
+## 🤝 Connect With Me
 
-
----
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-184a01285)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawarsanket229@gmail.com)
+- **GitHub:** https://github.com/sanketpawar113  
+- **LinkedIn:** https://www.linkedin.com/in/sanketpawar113  
+- **Email:** pawarsanket229@gmail.com  
+- **Phone:** 7517799275  
 
 ---
 
-⚡ *“Code. Learn. Share. Repeat.”*  
+### ⭐ *Thanks for visiting my profile!*
+Feel free to explore my repositories and contribute 😊

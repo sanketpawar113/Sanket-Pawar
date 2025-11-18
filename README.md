@@ -1,8 +1,4 @@
 <!-- Banner GIF -->
-<p align="center">
-  <img src="https://i.imgur.com/71v1qVv.gif" width="400" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Sanket Prashant Pawar</h1>
 <h3 align="center">Full-Stack Web Developer | MERN Stack | Clean UI Lover</h3>
 
@@ -42,7 +38,6 @@ I am a passionate **Full-Stack Web Developer** specializing in building scalable
 ## **🎨 Frontend**
 <p>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white&style=for-the-badge" />
